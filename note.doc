@@ -1,0 +1,5 @@
+cd akademi
+npm run dev
+
+cd akademidb
+npm start
